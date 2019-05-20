@@ -1,7 +1,7 @@
 ---
 title: The Hidden Paradise of Kwazulu-Natal South Africa
 subtitle: Your dream holiday start here!! Book with us now!!! +27 71 8780117
-image: /img/img_4677.png
+image: /img/img_8319-1-.jpg
 blurb:
   heading: Kosi Bay Travel Tours Centre
   text: >+
