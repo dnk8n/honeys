@@ -1,20 +1,49 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: The Hidden Paradise of Kwazulu-Natal South Africa
+subtitle: Your dream holiday start here!! Book with us now!!! +27 71 8780117
+image: /img/img_4677.png
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Kosi Bay Travel Tours Centre
+  text: >+
+    Kosi Bay Travel and Tours Centre offer you a holiday package with exciting
+    activities for the whole family. Our packages include Accommodation, Tours &
+    Activities, Land Transfer and Snack pack. 
+
+
+    Kosi Bay Travel and Tours Centre are committed to provide quality vacations
+    and superior customer service. We offer custom packages to suit our
+    visitor’s special requirements.
+
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  heading: Kosi Bay Attraction
+  text: >+
+
+    Kosi Bay is a system of lakes, channels and estuary, ranging from fresh to
+    saline water which joins the sea at the mouth. It offers tourists a vast
+    variety of activities to enjoy in an idyllic setting.
+
+
+
+    Kosi Bay Mouth epitomizes the incredible splendor of untouched Africa. We
+    are situated in the Isamangaliso Wetland Park and UNESCO world heritage. It
+    takes its name from the 700 years old fish kraals, celebrating the
+    traditions and culture of the Thonga people. It is community partnership
+    project, skills sharing and a life of purpose.
+
+
+
+    Thembe Elephant Game Park offers unique, intimate encounters with some of
+    the largest elephants in Africa. Apart from magnificent elephants (including
+    some of the biggest living tuskers) Tembe is also a home to the Big five, as
+    well as more than 340 bird species and a host of other animals and plants.
+
+products: []
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Our values
+  text: >-
+    Coffee is an amazing part of human culture but it has a dark side too – one
+    of colonialism and mindless abuse of natural resources and human lives. We
+    want to turn this around and return the coffee trade to the drink’s
+    exhilarating, empowering and unifying nature.
 ---
 
